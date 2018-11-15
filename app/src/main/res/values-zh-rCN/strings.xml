@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">APP内部语言包切换</string>
+    <string name="first_language">跟随系统</string>
+    <string name="second_language">简体中文</string>
+    <string name="third_language">繁体中文(台湾)</string>
+    <string name="forth_language">英语</string>
+    <string name="fifth_language">繁体中文(香港)</string>
+    <string name="content" tools:ignore="StringEscaping">一条早安短信不只是道句“早安”。而是以一种静默而充满爱意的方式告诉你：“我一醒来就想你了。”
+</string>
+</resources>

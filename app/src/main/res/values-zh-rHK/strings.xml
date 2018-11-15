@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">APP内部语言包切换</string>
+    <string name="first_language">跟隨系統</string>
+    <string name="second_language">簡體中文</string>
+    <string name="third_language">繁體中文(台灣)</string>
+    <string name="forth_language">英語</string>
+    <string name="fifth_language">繁體中文(香港)</string>
+    <string name="content" tools:ignore="StringEscaping">一條早安短訊不只是道句「早安」。而是以一種靜默而充滿愛意的方式告訴你：「我一醒來就想你了。」
+</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AppInternalChangeLanguageDemo</string>
+    <string name="first_language">Following System</string>
+    <string name="second_language">Simplified Chinese</string>
+    <string name="third_language">Traditional Chinese (Taiwan)</string>
+    <string name="forth_language">English</string>
+    <string name="fifth_language">Traditional Chinese (Hongkong)</string>
+    <string name="content">A good morning text doesn\'t only mean "Good morning". It has a silent, loving message that says..."I think of you when I wake up."</string>
+</resources>
